@@ -7,15 +7,13 @@ El motivo de que no pongo más texto es porque estoy aprendiendo programación p
 
 | Comandos Terminal Favoritos|
 |-----------------------------------------------------------|
-| ls | Este comando lista el contenido de un  directorio
-| cat | 
-| grep
-| cd
-| pwd
+| ls | Lista el contenido de un  directorio
+| cd | Me permite cambiar entre directorios
+| pwd|
 
 |Comandos Alias |
 |------------------------------------------------------------|
 | Alias Clear = cl                                           |
 | alias cafe="cat /dev/urandom | hexdump | grep \"ca fe\""   |
-| alias up= su apt-get update                              |
-| alias upg= su apt-get upgrade                             |
+| alias up= su apt-get update                                |
+| alias upg= su apt-get upgrade                              |
